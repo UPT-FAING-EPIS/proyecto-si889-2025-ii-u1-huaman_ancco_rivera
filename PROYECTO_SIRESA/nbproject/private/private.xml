@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/src/java/interfaces/CRUDTipoEstablecimiento.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/web/reportePorEstado.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/web/index.html</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/src/java/controlador/ControladorUsuario.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/src/java/controlador/ControladorLogin.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/src/java/modelo/HistorialCambioEstado.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/web/formEstablecimiento.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/src/java/controlador/ControladorEstablecimiento.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/src/java/modelo/Inspeccion.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/web/formReportes.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/web/formUsuario.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/web/ciudadano_dashboard.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/web/historialGlobalCambios.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/web/historialEstablecimiento.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/web/formInspeccion.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/web/reporteInspeccionesResultado.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/src/java/interfaces/CRUDInspeccion.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/web/inspector_dashboard.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/src/java/controlador/ControladorReporte.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/src/java/modeloDAO/EstablecimientoDAO.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/src/java/util/GeneradorNotificaciones.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/web/login.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/web/gestionUsuarios.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/web/confirmarEliminacionEstablecimiento.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/src/java/controlador/ControladorInspeccion.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/src/java/modeloDAO/HistorialCambioEstadoDAO.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/web/formCambiarEstadoEstablecimiento.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/src/java/interfaces/CRUDUsuario.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/web/mapaEstablecimientos.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/src/java/modelo/Usuario.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/web/listarEstablecimientos.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/src/java/util/GeneradorActa.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/src/java/modeloDAO/InspeccionDAO.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/web/listarInspecciones.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/web/reporteInspeccionesDetallado.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/src/java/interfaces/CRUDHistorialCambioEstado.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/src/java/modelo/TipoEstablecimiento.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/src/java/util/EmailService.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/web/admin_dashboard.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/web/reportePorPeriodo.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/src/java/modeloDAO/UsuarioDAO.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/src/java/modeloDAO/TipoEstablecimientoDAO.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/src/java/config/Conexion.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/src/java/interfaces/CRUDEstablecimiento.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/src/java/controlador/ControladorAuditoria.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/src/java/modelo/Establecimiento.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PROYECTO_SIRESA/web/detalleEstablecimiento.jsp</file>
+        </group>
+    </open-files>
+</project-private>
