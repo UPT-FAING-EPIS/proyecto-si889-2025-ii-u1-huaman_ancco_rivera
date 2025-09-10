@@ -5,10 +5,10 @@
 SIRESA es una aplicación web para la gestión, inspección y auditoría de establecimientos de comida y bebidas. Permite a administradores, inspectores y ciudadanos consultar información, realizar inspecciones, visualizar mapas y generar reportes detallados sobre el estado y cambios de los establecimientos.
 
 ## Equipo de desarrollo:
-   - Bruno Ancco
-   - Roberto Huaman
-   - Augusto Rivera
-
+   - Bruno Ancco Suaña
+   - Roberto Huaman Rivera
+   - Augusto Rivera Muñoz
+ 
 ## Estructura del Proyecto
 
 ```
@@ -41,6 +41,33 @@ PROYECTO_SIRESA/
 - **Historial de Cambios:** Auditoría de cambios de estado por establecimiento y global.
 - **Mapa Interactivo:** Visualización geográfica de establecimientos según estado.
 - **Roles de Usuario:** Administrador, Inspector y Ciudadano, con permisos diferenciados.
+
+## Roadmap
+
+### Fase 1: MVP y Estabilización
+- CRUD de establecimientos y usuarios
+- Registro y consulta de inspecciones
+- Visualización de estado y historial de cambios
+- Reportes básicos y gráficos
+
+### Fase 2: Mejoras de Usabilidad y Seguridad
+- Validaciones avanzadas en formularios
+- Mejorar feedback de errores y mensajes al usuario
+- Implementar control de sesiones y expiración segura
+- Auditar y reforzar roles y permisos
+
+### Fase 3: Integraciones y Automatización
+- Integrar notificaciones por correo electrónico
+- Exportar reportes a PDF/Excel
+- API REST para consulta externa
+- Automatización de backups y logs
+
+### Fase 4: Escalabilidad y Nuevas Funcionalidades
+- Soporte para múltiples municipios/regiones
+- Dashboard analítico avanzado
+- Integración con sistemas externos (RENIEC, SUNAT, etc.)
+- Mobile-friendly y PWA
+
 
 ## Instalación y Ejecución
 
